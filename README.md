@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mohamed Saleem
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently improving my MERN stack skills
 - 📫 How to reach me ...
